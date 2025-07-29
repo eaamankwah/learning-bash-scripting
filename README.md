@@ -6,6 +6,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Certificate](https://img.shields.io/badge/Status-Completed-success)](https://github.com/eaamankwah/Certificates/blob/main/CertificateOfCompletion_Learning Bash Scripting 2022.pdf)
 
 *Master the art of Bash scripting through hands-on practice and real-world examples*
 
